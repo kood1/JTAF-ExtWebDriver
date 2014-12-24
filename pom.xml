@@ -265,8 +265,8 @@
 		<!-- project's sole purpose is to provide standardized access to Selenium Web Driver -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-server</artifactId>
-			<version>2.42.2</version>
+			<artifactId>selenium-java</artifactId>
+			<version>2.44.0</version>
 			<type>pom</type>
 		</dependency>
 
